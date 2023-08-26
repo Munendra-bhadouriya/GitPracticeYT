@@ -18,7 +18,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             GitpracticeytTheme {
                 println("Checking commit ")
-                today is a good day
+
                 // A surface container using the 'background' color from the theme
                 Surface(
                     modifier = Modifier.fillMaxSize(),
