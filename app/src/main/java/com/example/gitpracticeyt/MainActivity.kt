@@ -18,6 +18,8 @@ class MainActivity : ComponentActivity() {
         setContent {
             GitpracticeytTheme {
                 println("Checking commit ")
+                println("Changes in experimental")
+                println("This line will be merged")
 
                 // A surface container using the 'background' color from the theme
                 Surface(
